@@ -8,6 +8,7 @@ run `ngrok http <port>` which generates random generated HTTP and HTTPS (https:/
 
 Update Subsection under '`APIs & Services -> Credentials - > OAuth consent screen`'
   - https://github.com/Pratapredking/ngrok_setup/blob/master/Credential%202.PNG
+  - https://github.com/Pratapredking/ngrok_setup/blob/master/Client%20ID.PNG
   
   
 
