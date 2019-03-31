@@ -6,7 +6,8 @@ Download ngrok and set up in your localbox
 
 run `ngrok http <port>` which generates random generated HTTP and HTTPS URLs. Access with the generated random URL
 
-(/Credential 3.png)
+
+![command palette](/Credential 3.png)
 
 
  
