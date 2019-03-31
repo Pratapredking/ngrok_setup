@@ -5,7 +5,8 @@
 Download ngrok and set up in your localbox
 
 run `ngrok http <port>` which generates random generated HTTP and HTTPS (https://4b23ca50.ngrok.io) URLs. Access with the generated random URL
-  - https://github.com/Pratapredking/ngrok_setup
+  - https://github.com/Pratapredking/ngrok_setup/blob/master/Credential%202.PNG
+  
   
 
 
