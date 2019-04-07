@@ -11,7 +11,10 @@ Update Subsection under '`APIs & Services -> Credentials - > OAuth consent scree
   
   - https://github.com/Pratapredking/ngrok_setup/blob/master/Client%20ID.PNG
   
+ 
  Now access localhost with the URL - https://4b23ca50.ngrok.io
+ 
+ 
  
   
   
